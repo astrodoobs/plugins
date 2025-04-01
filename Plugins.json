@@ -1,0 +1,23 @@
+[
+    {
+        "Author": "Eqbot, astrodoobs, Vivi",
+        "Name": "XIVSnapper",
+        "InternalName": "Snapper",
+        "AssemblyVersion": "0.0.0.8",
+        "Description": "/psnap to use",
+        "ApplicableVersion": "any",
+        "Tags": [
+            "snapper"
+        ],
+        "DalamudApiLevel": 12,
+        "LoadRequiredState": 0,
+        "LoadSync": false,
+        "CanUnloadAsync": false,
+        "LoadPriority": 0,
+        "Punchline": "Snapshot mods for your friends",
+        "AcceptsFeedback": false,
+        "DownloadLinkInstall": "https://github.com/brendoncintas/XIVSnapper/releases/download/0.0.0.8/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/brendoncintas/XIVSnapper/releases/download/0.0.0.8/latest.zip",
+        "DownloadLinkTesting": "https://github.com/brendoncintas/XIVSnapper/releases/download/0.0.0.8/latest.zip"
+    }
+]
