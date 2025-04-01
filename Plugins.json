@@ -19,5 +19,27 @@
         "DownloadLinkInstall": "https://github.com/brendoncintas/XIVSnapper/releases/download/0.0.0.8/latest.zip",
         "DownloadLinkUpdate": "https://github.com/brendoncintas/XIVSnapper/releases/download/0.0.0.8/latest.zip",
         "DownloadLinkTesting": "https://github.com/brendoncintas/XIVSnapper/releases/download/0.0.0.8/latest.zip"
+    }, 
+
+    {
+        "Author": "Eqbot, astrodoobs, Vivi",
+        "Name": "Stop The Clip",
+        "InternalName": "StopTheClip",
+        "AssemblyVersion": "0.1.1",
+        "Description": "/stoptheclip to enable.",
+        "ApplicableVersion": "any",
+        "Tags": [
+            "stoptheclip"
+        ],
+        "DalamudApiLevel": 12,
+        "LoadRequiredState": 0,
+        "LoadSync": false,
+        "CanUnloadAsync": false,
+        "LoadPriority": 0,
+        "Punchline": "Set and forget!",
+        "AcceptsFeedback": false,
+        "DownloadLinkInstall": "https://github.com/brendoncintas/StopTheClip/releases/download/0.1.1/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/brendoncintas/StopTheClip/releases/download/0.1.1/latest.zip",
+        "DownloadLinkTesting": "https://github.com/brendoncintas/StopTheClip/releases/download/0.1.1/latest.zip"
     }
 ]
