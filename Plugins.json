@@ -5,9 +5,10 @@
         "InternalName": "Snapper",
         "AssemblyVersion": "0.0.0.8",
         "Description": "/psnap to use",
+        "RepoUrl": "https://github.com/brendoncintas/XIVSnapper",
         "ApplicableVersion": "any",
         "Tags": [
-            "snapper"
+            "utility"
         ],
         "DalamudApiLevel": 12,
         "LoadRequiredState": 0,
@@ -22,21 +23,22 @@
     }, 
 
     {
-        "Author": "ProjectMimer, astrodoobs",
+        "Author": "Marulu, StreetRat, astrodoobs",
         "Name": "Stop The Clip",
         "InternalName": "StopTheClip",
         "AssemblyVersion": "0.1.1",
-        "Description": "/stoptheclip to enable.",
+        "Description": "Do you want to take close up screenshots? Are you a melee and hate having the boss model disappear on you? Then this is the plugin for you, it overrides the near clip and stops models from hiding on camera collision. This plugin is based on XIVR code.",
+        "RepoUrl": "https://github.com/brendoncintas/StopTheClip",
         "ApplicableVersion": "any",
         "Tags": [
-            "stoptheclip"
+            "utility"
         ],
         "DalamudApiLevel": 12,
         "LoadRequiredState": 0,
         "LoadSync": false,
         "CanUnloadAsync": false,
         "LoadPriority": 0,
-        "Punchline": "Set and forget!",
+        "Punchline": "Modification to game clipping",
         "AcceptsFeedback": false,
         "DownloadLinkInstall": "https://github.com/brendoncintas/StopTheClip/releases/download/0.1.1/latest.zip",
         "DownloadLinkUpdate": "https://github.com/brendoncintas/StopTheClip/releases/download/0.1.1/latest.zip",
