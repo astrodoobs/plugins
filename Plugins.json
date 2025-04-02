@@ -19,7 +19,7 @@
         "AcceptsFeedback": false,
         "DownloadLinkInstall": "https://github.com/brendoncintas/XIVSnapper/releases/download/0.0.0.8/latest.zip",
         "DownloadLinkUpdate": "https://github.com/brendoncintas/XIVSnapper/releases/download/0.0.0.8/latest.zip",
-        "DownloadLinkTesting": "https://github.com/brendoncintas/XIVSnapper/releases/download/0.0.0.8/latest.zip"
+        "DownloadLinkTesting": "https://github.com/brendoncintas/XIVSnapper/releases/download/0.1.0-dev/latest.zip"
     }, 
 
     {
