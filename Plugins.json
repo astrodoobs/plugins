@@ -18,9 +18,9 @@
         "Punchline": "Plugin to save current appearance and applied mods of a character",
         "AcceptsFeedback": false,
         "IsTestingExclusive": "False",
-        "DownloadLinkInstall": "https://github.com/astrodoobs/XIVSnapper/releases/download/0.1.0/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/astrodoobs/XIVSnapper/releases/download/0.1.0/latest.zip",
-        "DownloadLinkTesting": "https://github.com/astrodoobs/XIVSnapper/releases/download/0.1.0/latest.zip"
+        "DownloadLinkInstall": "https://github.com/astrodoobs/Snappy/releases/download/0.1.0/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/astrodoobs/Snappy/releases/download/0.1.0/latest.zip",
+        "DownloadLinkTesting": "https://github.com/astrodoobs/Snappy/releases/download/0.1.0/latest.zip"
     }, 
 
     {
