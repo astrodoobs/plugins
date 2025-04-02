@@ -3,7 +3,7 @@
         "Author": "Eqbot, astrodoobs, Vivi",
         "Name": "XIVSnapper",
         "InternalName": "Snapper",
-        "AssemblyVersion": "0.0.0.8",
+        "AssemblyVersion": "0.1.0",
         "Description": "/psnap to use",
         "RepoUrl": "https://github.com/brendoncintas/XIVSnapper",
         "ApplicableVersion": "any",
